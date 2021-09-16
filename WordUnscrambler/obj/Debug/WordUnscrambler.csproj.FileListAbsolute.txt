@@ -1,0 +1,7 @@
+D:\Trainings\O'Reilly\Learn C# By Building Applications\Word Unscrambler Using C#\WordUnscrambler\bin\Debug\WordUnscrambler.exe.config
+D:\Trainings\O'Reilly\Learn C# By Building Applications\Word Unscrambler Using C#\WordUnscrambler\bin\Debug\WordUnscrambler.exe
+D:\Trainings\O'Reilly\Learn C# By Building Applications\Word Unscrambler Using C#\WordUnscrambler\bin\Debug\WordUnscrambler.pdb
+D:\Trainings\O'Reilly\Learn C# By Building Applications\Word Unscrambler Using C#\WordUnscrambler\obj\Debug\WordUnscrambler.csproj.AssemblyReference.cache
+D:\Trainings\O'Reilly\Learn C# By Building Applications\Word Unscrambler Using C#\WordUnscrambler\obj\Debug\WordUnscrambler.csproj.CoreCompileInputs.cache
+D:\Trainings\O'Reilly\Learn C# By Building Applications\Word Unscrambler Using C#\WordUnscrambler\obj\Debug\WordUnscrambler.exe
+D:\Trainings\O'Reilly\Learn C# By Building Applications\Word Unscrambler Using C#\WordUnscrambler\obj\Debug\WordUnscrambler.pdb
